@@ -45,7 +45,7 @@ Datasettype is meant to differentiate the raw, normalized, or combined data.<br/
 | Attribute  | Value |
 | ------------- | ------------- |
 | title   | Homelessness_in_Washington_Curation_Protocol |
-| description | The topic of this dataset is the homeless counts in The State of Washington for the year of 2016. The intended audience of the final product is the general public of the State. The goal of this curation project is to combine the main point in time counts of homelessness in Washington from two agencies' yearly reports, in order to better represent any variance in the data in one place.   |
+| description | The topic of this dataset is the homeless counts in the state of Washington for the year of 2016. The intended audience of the final product is the general public of the state. The goal of this curation project is to combine the main point in time counts of homelessness in Washington from two agencies' yearly reports, in order to better represent any variance in the data in one place.   |
 | keyword| “Homelessness”, “Unhoused”, “HUD”, “DOC” , “Washington”, “Point in Count”, “2016”  |
 | modified  | 03/09/2022  |
 | publisher | Maria Arteaga|
