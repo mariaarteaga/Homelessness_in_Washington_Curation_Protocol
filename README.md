@@ -57,6 +57,6 @@ Datasettype is meant to differentiate the raw, normalized, or combined data.<br/
 | spatial | Washington, USA  |
 | temporal  | 2016  |
 | conformsTo | https://project-open-data.cio.gov/v1.1/schema/   |
-| describedBy | https://github.com/mariaarteaga/Homelessness_in_Washington_Curation_Protocol/edit/main/README.md#data-dictionary-   |
+| describedBy |https://github.com/mariaarteaga/Homelessness_in_Washington_Curation_Protocol#data-dictionary-  |
 | language | english  |
 | references  | http://www.commerce.wa.gov/wp-content/uploads/2015/08/Commerce-Homelessness-in-Washington-2016.pdf https://files.hudexchange.info/reports/published/CoC_PopSub_State_WA_2016.pdf|
