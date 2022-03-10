@@ -31,7 +31,7 @@ Datasettype is meant to differentiate the raw, normalized, or combined data.<br/
 | Emergency   | Emergency  | Integer  | Integers greater than 0  |The amount of houseless persons who live in emergency shelters  |
 | Transitional  | Transitional  | Integer | Integers greater than 0  |The amount of houseless persons who live in transitional housing |
 | Safe Haven | Safe Haven | Integer  | Integers greater than 0  |The amount of houseless persons who were housed under Safe Haven |
-| Total Sheltered  | Total Sheltered  | Integer  | Integers greater than 0 |The total amount of housless people when you combine emergency, transitional, and safe haven |
+| Total Sheltered  | Total Sheltered  | Integer  | Integers greater than 0 |The total amount of houseless people when you combine emergency, transitional, and safe haven |
 | Total Unsheltered  | Total Unsheltered  | Integer | Integers greater than 0  |The amount of houseless persons who are not sheltered in emergency transitional or safe haven housing. |
 | Total  | Total  | Integer  | Integers greater than 0  | The total number of houseless persons when you combine emergency, transitional, safe haven, and unsheltered data counts |
 | Department of Commerce Total | DOC Total  | Integer  | Integers greater than 0 |The data representative of the total number of houseless persons when you combine emergency, transitional, safe haven, and unsheltered data counts for the Department of Commerce Homelessness Point in Count |
